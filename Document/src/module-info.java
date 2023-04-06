@@ -1,0 +1,2 @@
+module document {
+}
